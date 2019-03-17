@@ -7,7 +7,7 @@
 <title>Management System</title>
 </head>
 <body>
-	<h1>登录页面</h1>
+	<h1>**登录页面**</h1>
 	<br>
 	<h2>检查是否已经登录过且会话是否已过期</h2>
 	<br>
