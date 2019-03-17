@@ -6,10 +6,10 @@ Management System
 
 可在其基础上加入特定的业务功能，以生产出特定的业务管理系统。
 
-例如：在此项目的基础上进行功能扩展，使其可以进行“联系人”相关业务的管理与操作。
+例如：在此项目的基础上进行功能扩展，使其可以进行“零售”相关业务的操作与管理。
 
-contact_management_system
+retail_management_system
 
-Contact Management System
+Retail Management System
 
-联系人管理系统（CMS - Contact Management System）
+零售管理系统（RMS - Retail Management System）
